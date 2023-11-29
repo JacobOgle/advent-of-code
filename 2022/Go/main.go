@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("AOC22 -- Golang")
-	days.DayOnePartOneSoln()
+	days.DayOneSoln()
 }
